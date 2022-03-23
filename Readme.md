@@ -12,7 +12,7 @@ Our development environment uses Node.js v17.1.0.
 After that, please take following steps:
 
 1. Get a project in any directory.  
-`$ git clone https://github.com/wcrvt/Server-Software.git`  
+`$ git clone https://github.com/wcrvt/nextjs_sample.git`  
 
 2. Move to the following directory and then install libralies.  
 `$ cd Server-Software`  
