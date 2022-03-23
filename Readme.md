@@ -15,7 +15,7 @@ After that, please take following steps:
 `$ git clone https://github.com/wcrvt/nextjs_sample.git`  
 
 2. Move to the following directory and then install libralies.  
-`$ cd Server-Software`  
+`$ cd nextjs_sample`  
 `$ npm i`
 
 ## :hammer: How to use
